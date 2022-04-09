@@ -3,8 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/APK/InstaApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1515625" />
+        <entry key="..\:/APK/InstaApp/app/src/main/res/drawable/button_outline.xml" value="0.22" />
+        <entry key="..\:/APK/InstaApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1515625" />
         <entry key="..\:/APK/InstaApp/app/src/main/res/drawable/input_outline.xml" value="0.278125" />
+        <entry key="..\:/APK/InstaApp/app/src/main/res/drawable/tags_tu.xml" value="0.13518518518518519" />
+        <entry key="..\:/APK/InstaApp/app/src/main/res/layout/activity_home.xml" value="0.13541666666666666" />
+        <entry key="..\:/APK/InstaApp/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/APK/InstaApp/app/src/main/res/layout/activity_main.xml" value="0.1933876811594203" />
+        <entry key="..\:/APK/InstaApp/app/src/main/res/layout/activity_post.xml" value="0.13541666666666666" />
+        <entry key="..\:/APK/InstaApp/app/src/main/res/layout/activity_profile.xml" value="0.13541666666666666" />
+        <entry key="..\:/APK/InstaApp/app/src/main/res/layout/activity_register.xml" value="0.13541666666666666" />
+        <entry key="..\:/APK/InstaApp/app/src/main/res/layout/single_photo.xml" value="0.13541666666666666" />
+        <entry key="..\:/APK/InstaApp/app/src/main/res/menu/menu.xml" value="0.13541666666666666" />
+        <entry key="..\:/APK/InstaApp/app/src/main/res/menu/post_menu.xml" value="0.13541666666666666" />
       </map>
     </option>
   </component>
